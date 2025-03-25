@@ -1,12 +1,12 @@
-Customer Churn Prediction - California Telecom Case Study
+**Customer Churn Prediction - California Telecom Case Study**
 
-Overview
+**Overview**
 This project focuses on analyzing customer churn behaviour for a California-based telecommunication company. Using data exploration and machine learning techniques, we aim to predict customer churn and identify key contributing factors. The insights from this analysis can help the company implement better customer retention strategies.
 
-Dataset
+**Dataset**
 The dataset is sourced from Kaggle (originally scraped from Maven Analytics) and contains 7043 observations with 38 features. It includes customer demographic details, subscription services, tenure, billing information, and churn status.
 
-Project Components:
+**Project Components:**
 
 1. Exploratory Data Analysis (EDA)
 
@@ -33,14 +33,14 @@ Confusion Matrix
 ROC Curve Analysis
 Focus on minimizing False Negatives (Type II Error)
 
-Findings
+**Findings**
 
 High-risk Customers: Recent customers (<1-year tenure) with high monthly charges
 Contract Influence: Month-to-month customers have a high churn rate (~52%)
 Offer Effectiveness: Offer A retains customers better, while Offer E has a high churn rate (~68%)
 Revenue Impact: Churned customers contributed 17.28% of the total revenue
-
-Future Work
+**
+Future Work**
 
 Incorporating customer satisfaction surveys
 Using advanced sampling techniques for better data balancing
