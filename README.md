@@ -1,4 +1,5 @@
 Customer Churn Prediction - California Telecom Case Study
+
 Overview
 This project focuses on analyzing customer churn behaviour for a California-based telecommunication company. Using data exploration and machine learning techniques, we aim to predict customer churn and identify key contributing factors. The insights from this analysis can help the company implement better customer retention strategies.
 
