@@ -35,12 +35,12 @@ Focus on minimizing False Negatives (Type II Error)
 
 **Findings**
 
-High-risk Customers: Recent customers (<1-year tenure) with high monthly charges
+High Risk Customers: Recent customers (<1-year tenure) with high monthly charges
 Contract Influence: Month-to-month customers have a high churn rate (~52%)
 Offer Effectiveness: Offer A retains customers better, while Offer E has a high churn rate (~68%)
 Revenue Impact: Churned customers contributed 17.28% of the total revenue
-**
-Future Work**
+
+**Future Work**
 
 Incorporating customer satisfaction surveys
 Using advanced sampling techniques for better data balancing
